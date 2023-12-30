@@ -1,2 +1,30 @@
-# text-tools
-A collection of text content related tools to help you create, modify &amp; improve text type of content.
+# Text Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+>A collection of text content related tools to help you create, modify &amp; improve text type of content.
+
+## Contents
+
+* [xxxxx Tool](xxxxxxx)
+* [xxxxx Tool](xxxxxxx)
+* [xxxxx Tool](xxxxxxx)
+* [xxxxx Tool](xxxxxxx)
+* [xxxxx Tool](xxxxxxx)
+* [xxxxx Tool](xxxxxxx)
+* [xxxxx Tool](xxxxxxx)
+* [xxxxx Tool](xxxxxxx)
+* [xxxxx Tool](xxxxxxx)
+* [xxxxx Tool](xxxxxxx)
+* [xxxxx Tool](xxxxxxx)
+* [xxxxx Tool](xxxxxxx)
+* [xxxxx Tool](xxxxxxx)
+* [xxxxx Tool](xxxxxxx)
+* [xxxxx Tool](xxxxxxx)
+* [xxxxx Tool](xxxxxxx)
+* [xxxxx Tool](xxxxxxx)
+* [xxxxx Tool](xxxxxxx)
+* [xxxxx Tool](xxxxxxx)
+* [xxxxx Tool](xxxxxxx)
+* [xxxxx Tool](xxxxxxx)
+* [xxxxx Tool](xxxxxxx)
+* [xxxxx Tool](xxxxxxx)
+* [xxxxx Tool](xxxxxxx)
